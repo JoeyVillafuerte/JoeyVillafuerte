@@ -4,12 +4,12 @@
 
 #### 🌱 Aside from school work, I love to code and I'm currently learning things such as 
 * Ruby on Rails
-* Vue
-* TensorFlow
+* Vue.js
+* React.js
 
 I'm also learning how to code bots for Discord! Starting with personal bots for myself and friends :)
 
-#### ✍️ Able to code using HTML/CSS/JavaScript, Python, C++, Java
+#### ✍️ Able to code using HTML/CSS/JavaScript, Python3, C++, Java, 
 
 
 #### Thank you for viewing my profile!! You can contact me at
