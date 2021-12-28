@@ -9,7 +9,7 @@
 
 I'm also learning how to code bots for Discord! Starting with personal bots for myself and friends :)
 
-#### ✍️ Able to code using HTML/CSS/JavaScript, Python3, C++, Java, 
+#### ✍️ Proficient with HTML/CSS/JavaScript, Python3, C++, SQL, and Java 
 
 
 #### Thank you for viewing my profile!! You can contact me at
