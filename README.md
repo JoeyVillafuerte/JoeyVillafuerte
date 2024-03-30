@@ -1,6 +1,6 @@
 ## Hi!! 👋 My name is Joey, nice to meet you!
 
-🎓 I'm a 3rd year Software Engineering Student at Ontario Tech University, looking for a Summer 2022 internship to hone my coding skills. 
+🎓 I'm a 4th year Software Engineering Student at Ontario Tech University! I'm currently finishing my Capstone project and looking for junior positions once I graduate.
 
 #### 🌱 Aside from school work, I love to code and I'm currently learning things such as 
 * Ruby on Rails
