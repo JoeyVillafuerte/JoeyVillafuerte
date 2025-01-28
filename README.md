@@ -1,22 +1,22 @@
 ## Hi!! 👋 My name is Joey, nice to meet you!
 
-🎓 I'm a 4th year Software Engineering Student at Ontario Tech University! I'm currently finishing my Capstone project and looking for junior positions once I graduate.
+🎓 I'm a Software Engineering Graduate from Ontario Tech University! I'm currently looking for any work in the tech field.
 
-#### 🌱 Aside from school work, I love to code and I'm currently learning things such as 
+#### 🌱 Now that I'm done school, I have been keeping up my skills by practicing with LeetCode and HackerRank, as well as working part time.
+
+I'm learning how to use the following:
 * Ruby on Rails
-* Vue.js
-* React.js
 
 I'm also learning how to code bots for Discord! Starting with personal bots for myself and friends :)
 
-#### ✍️ Proficient with HTML/CSS/JavaScript, Python3, C++, SQL, and Java 
-
+#### ✍️ Proficient with HTML/CSS/JavaScript, Python3, C++, SQL, and Java, ROS,
+#### ✍️ Interested in working in AQ, IT, QA, UI/UX, Fullstack Development
 
 #### Thank you for viewing my profile!! You can contact me at
 
-* ✉️ Email: josef.r.villafuerte@gmail.com or josef.villafuerte@ontariotechu.net
+* ✉️ Email: josefvillafuerte8@gmail.com
 
-* 📭 LinkedIn: https://www.linkedin.com/in/josef-villafuerte-bb69841a2/
+* 📭 LinkedIn: [Joey Villafuerte](https://www.linkedin.com/in/josef-villafuerte/)
 <!--
 **JoeyVillafuerte/JoeyVillafuerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
