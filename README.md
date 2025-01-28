@@ -10,7 +10,7 @@ I'm learning how to use the following:
 I'm also learning how to code bots for Discord! Starting with personal bots for myself and friends :)
 
 #### ✍️ Proficient with HTML/CSS/JavaScript, Python3, C++, SQL, and Java, ROS,
-#### ✍️ Interested in working in AQ, IT, QA, UI/UX, Fullstack Development
+#### ✍️ Interested in working in AI, IT, QA, UI/UX, Fullstack Development
 
 #### Thank you for viewing my profile!! You can contact me at
 
